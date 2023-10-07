@@ -3,8 +3,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/reza0146/tic-tac-tao)
 ![GitHub Repo stars](https://img.shields.io/github/stars/reza0146/tic-tac-tao)
 ![GitHub issues](https://img.shields.io/github/issues/reza0146/tic-tac-tao?color=yellow)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/reza0146/tic-tac-tao?color=orange)
-![GitHub](https://img.shields.io/github/license/reza0146/tic-tac-tao?color=green)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/reza0146/tic-tac-tao?color=violet)
+![Licence](https://img.shields.io/github/license/reza0146/tic-tac-tao)
 
 Let's play! This project implements the classic tic tac tao game. 
 ## Features
