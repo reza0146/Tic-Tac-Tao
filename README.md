@@ -29,4 +29,5 @@ If you find issues in the code or can think of improvements and cool features to
 4. Create a pull request
 6. Wait for pull request to merge.
 
-
+## Style
+This project is implemented by adhering to [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
